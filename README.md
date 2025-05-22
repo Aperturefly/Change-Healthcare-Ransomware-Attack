@@ -27,4 +27,5 @@ index=sysmon EventCode=10 TargetImage=lsass.exe
 
 FINAL INFO (IMPORTANT)
 Bash Scripts are located above, but copy them from the .sh files listed on this repo.
+
 ![image](https://github.com/user-attachments/assets/5e651098-56cd-47af-af68-0d287b78c4aa)
