@@ -23,5 +23,4 @@ index=wineventlog OR index=sysmon
 
 Detect credential dumping behavior (e.g., mimikatz, procdump):
 index=sysmon EventCode=10 TargetImage=lsass.exe
-| stats count by SourceImage, TargetImage
 ![image](https://github.com/user-attachments/assets/5e651098-56cd-47af-af68-0d287b78c4aa)
